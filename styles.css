@@ -63,7 +63,7 @@ body {
 
 /* Home Page Styling */
 .home {
-    background: url('images/yoga-bg.jpg') no-repeat center center/cover;
+    background: url('yoga-bg.jpg') no-repeat center center/cover;
     color: white;
     max-width: 2000px;
     height: 100vh;
